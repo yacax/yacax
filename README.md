@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./public/images/banner-github.jpg"
+    src="./public/images/banner-github.png"
     width="200"
     alt="Tony Oursler, an American multimedia and installation artist."
     title="I took this photo at an exhibition in 2022. Tony Oursler, born in 1957, is renowned for his diverse artworks spanning video, sculpture, installation, performance, and painting. He earned his Bachelor of Fine Arts from the California Institute for the Arts in 1979 and is currently based in New York City."
@@ -13,10 +13,13 @@
 
 <h2>📌 About Me</h2>
 
-- 👨‍💻 Frontend Developer. - 🎓 Graduated from the Faculty of CTU at ITMO. - 🛠️
-  Former engineer and worked in sales. Recently ventured into design and
-  coding. - 🎧 Love listening to music, attending concerts, and playing
-  volleyball.
+<ul>
+  <li> 👨‍💻 Frontend Developer.</li>
+  <li> 🎓 Graduated from the Faculty of CTU at ITMO.</li>
+  <li> 🛠️ Former engineer and worked in sales. Recently ventured into design and
+  coding.</li>
+  <li> 🎧 Love listening to music, attending concerts, and playing
+  volleyball.</li>
 
 <h2>🚀 Technologies Mastered</h2>
 <p>During the web development course, I mastered the following technologies:</p>
