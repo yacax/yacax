@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1>
   👋 Hello! I'm <a href="https://tarantino.nomoredomains.work/en/">Alex</a>
 </h1>
 
-<p align="center">
+<p>
   <img
     src="./public/images/banner-practicum.png"
     width="200"
@@ -57,15 +57,15 @@
 <h2>🎨 My Projects</h2>
 
 <ul style="list-style-type: none">
-  <li align="center" style="margin-bottom: 20px">
+  <li style="margin-bottom: 20px">
+  <h3>Improved Graduation Project</h3>
     <a href="https://tarantino.nomoredomains.work">
       <img
         src="./public/images/pwa_improved_diploma_project.jpg"
         width="200"
         alt="Improved graduation project"
       />
-    </a>
-    <h3>Improved Graduation Project</h3>
+    </a>    
     <p>
       This repository is an enhanced version of my original diploma project's
       frontend. Building on the core functionality of a service where users can
@@ -77,15 +77,15 @@
     >
   </li>
   <br />
-  <li align="center" style="margin-bottom: 20px">
+  <li style="margin-bottom: 20px">
+  <h3>Graduation Project</h3>
     <a href="https://github.com/yacax/movies-explorer-frontend.git">
       <img
         src="./public/images/diploma_project.jpg"
         width="200"
         alt="Graduation project"
       />
-    </a>
-    <h3>Graduation Project</h3>
+    </a>    
     <p>
       The objective of this project is to build a service that allows users to
       search for films and save their favourite ones in a personal space. The
@@ -101,11 +101,11 @@
     <br />
   </li>
 
-  <li align="center">
+  <li>
+  <h3>Project MESTO</h3>
     <a href="https://yacax.nomoreparties.sbs">
       <img src="./public/images/mesto.jpg" width="200" alt="Project MESTO" />
-    </a>
-    <h3>Project MESTO</h3>
+    </a>    
     <p>
       The interactive web page where users can add photos, delete them, and give
       likes.
@@ -118,7 +118,7 @@
 <br />
 <h2>🔗 Explore My Projects</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/yacax?tab=repositories" target="_blank">
     <img
       src="https://img.shields.io/badge/View-All%20Repositories-blueviolet?style=for-the-badge&logo=github"
@@ -127,7 +127,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   Dive into my
   <a href="https://github.com/yacax?tab=repositories">GitHub profile</a> to see
   all my repositories. From experimental projects to the production-ready
